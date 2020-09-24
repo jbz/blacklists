@@ -1,0 +1,4 @@
+# Personal DNS blacklist
+#-----------------------
+0.0.0.0	www.zergnet.com
+0.0.0.0 lockerdome.com
